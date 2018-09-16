@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-17T00:21:40+10:00</updated><id>http://localhost:4000/</id><title type="html">b0un7y</title><subtitle>So it is done...</subtitle><entry><title type="html">Hello, world!</title><link href="http://localhost:4000/2018/09/16/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Hello, world!" /><published>2018-09-16T23:43:05+10:00</published><updated>2018-09-16T23:43:05+10:00</updated><id>http://localhost:4000/2018/09/16/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2018/09/16/welcome-to-jekyll.html">&lt;p&gt;I can only imagine to begin this journey in one way.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;#include &amp;lt;iostream&amp;gt;
+
+int main() {
+        std::cout &amp;lt;&amp;lt; &quot;Hello, world!&quot; &amp;lt;&amp;lt; std::endl;
+        return 0;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;An apt beginning.&lt;/p&gt;</content><author><name></name></author><summary type="html">I can only imagine to begin this journey in one way.</summary></entry></feed>
